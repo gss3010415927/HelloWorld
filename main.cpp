@@ -3,6 +3,7 @@ using namespace std;
 
 void func()
 {
+	cout << "helo func()" << endl;
 
 }
 
